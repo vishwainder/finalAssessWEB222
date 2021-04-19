@@ -1,0 +1,12 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+
+ .required{
+    color: red;
+   }
+  
+textarea{
+       width: 60 px;
+       height: 2;
+   }
